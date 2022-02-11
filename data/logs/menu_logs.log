@@ -1,0 +1,7 @@
+2022-01-18 01:09:15,473 : root : command_handler : menu : Command 'help' found called successfully : MainThread
+2022-01-18 01:09:30,133 : root : command_handler : menu : Command 'clearlogs' found called successfully : MainThread
+2022-01-21 23:54:03,346 : root : command_handler : menu : Command '' not found : MainThread
+2022-01-21 23:55:14,544 : root : command_handler : menu : Command 'help' found called successfully : MainThread
+2022-01-24 00:25:05,134 : root : command_handler : menu : Command 'help' found called successfully : MainThread
+2022-02-09 22:53:04,981 : root : command_handler : menu : Command 'help' found called successfully : MainThread
+2022-02-09 22:53:11,263 : root : command_handler : menu : Command 'AutoOptimizer' found called successfully : MainThread
